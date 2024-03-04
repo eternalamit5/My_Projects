@@ -28,7 +28,7 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀 MQTT-TIG-Stack 🌐🚢🛠️](https://github.com/eternalamit5/MQTT-TIG-Stack)
 ---
-[🚀 StepDetection-and-StepLength-Estimation 🌐🚢🛠️]([https://github.com/eternalamit5/MQTT-TIG-Stack](https://github.com/eternalamit5/StepDetection-and-StepLength-Estimation)https://github.com/eternalamit5/StepDetection-and-StepLength-Estimation)
+[🚀 StepDetection-and-StepLength-Estimation 🌐🚢🛠️](https://github.com/eternalamit5/StepDetection-and-StepLength-Estimation)
 ---
 [🚀 Indoor-Localisation 🌐🚢🛠️](https://github.com/eternalamit5/Indoor-Localisation)
 ---
