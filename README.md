@@ -22,9 +22,9 @@ Thank you for visiting "My Projects"! 🙌🏼
 ---
 [🚀 AKS cluster using Terraform - Nginx Ingress & TLS - OIDC Workload Identity 🌐🚢🛠️](https://github.com/eternalamit5/AKS-Terraform-Helm-Nginx-Ingress-TLS-)
 ---
-[🚀 Kafka-TIG 🌐🚢🛠️](https://github.com/eternalamit5/Kafka-TIG)
+[🚀 KTIR Stack: IoT Stack with Docker Compose, Kafka, Telegraf, InfluxDB, and ReactJS 🌐🚢🛠️](https://medium.com/@eternalamit5/ktir-stack-iot-stack-with-docker-compose-kafka-telegraf-influxdb-and-reactjs-498abdd10331)
 ---
-[🚀 KTIR-Kafka-Telegraf-InfluxDB-ReactJS Stack 🌐🚢🛠️](https://github.com/eternalamit5/KTIR-Kafka-Telegraf-InfluxDB-ReactJS)
+[🚀 Kafka-TIG: IoT Stack with Docker Compose, Kafka, Telegraf, InfluxDB, and Grafana 🌐🚢🛠️](https://medium.com/@eternalamit5/kafka-tig-iot-stack-with-docker-compose-kafka-telegraf-influxdb-and-grafana-ab3cd40c2f18)
 ---
 [🚀 MQTT-TIG-Stack 🌐🚢🛠️](https://github.com/eternalamit5/MQTT-TIG-Stack)
 ---
@@ -33,4 +33,6 @@ Thank you for visiting "My Projects"! 🙌🏼
 [🚀 Indoor-Localisation 🌐🚢🛠️](https://github.com/eternalamit5/Indoor-Localisation)
 ---
 [🚀 Inverted-Pendulum 🌐🚢🛠️](https://github.com/eternalamit5/Inverted-Pendulum-Advance-Control)
+---
+[🚀 Raspberry pi development setup on Eclipse - Linux and Debugging via SSH 🌐🚢🛠️](https://medium.com/@eternalamit5/raspberry-pi-development-setup-on-eclipse-linux-and-debugging-via-ssh-a1927852e3a2)
 ---
